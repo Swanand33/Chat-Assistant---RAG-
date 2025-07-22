@@ -2,9 +2,8 @@
 
 A production-ready **Retrieval-Augmented Generation (RAG)** application that lets you chat with your documents using AI. Built with LangChain, OpenAI GPT-3.5, and Streamlit.
 
-C:\Users\Swanand Potnis\Desktop\rag-chat-assistant\screenshots\Screenshot 2025-07-22 115206.png
-
-C:\Users\Swanand Potnis\Desktop\rag-chat-assistant\screenshots\Screenshot 2025-07-22 115305.png
+screenshots\Screenshot 2025-07-22 115206.png
+screenshots\Screenshot 2025-07-22 115305.png
 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
